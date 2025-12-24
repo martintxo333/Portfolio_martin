@@ -84,9 +84,3 @@ python portfolio_generator.py
 
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for license rights and limitations.
-
----
-
-Si quieres, puedo hacer **una versión todavía más visual y resumida**, con una mini **captura de cómo se ve el portfolio** dentro del README, como hacen muchos portfolios en GitHub. Esto le daría un toque mucho más profesional y atractivo.
-
-¿Quieres que haga esa versión también?
