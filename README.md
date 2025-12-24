@@ -47,7 +47,7 @@ The project is intended for **educational purposes** and to practice **Python fi
 
 ## File Description
 
-### `portfolio_generator.py`
+### `blog_martin.py`
 
 Main Python script that:
 
