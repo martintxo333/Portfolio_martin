@@ -63,11 +63,11 @@ Make sure the image `argazki_martin.jpg` is in the same folder as the script, ot
 
 ## Usage
 
-1. Place the script `portfolio_generator.py` and your profile image in the same folder.
+1. Place the script `blog_martin` and your profile image in the same folder.
 2. Run the script:
 
 ```bash
-python portfolio_generator.py
+python blog_martin
 ```
 
 3. Your default browser will open automatically with the generated portfolio page.
